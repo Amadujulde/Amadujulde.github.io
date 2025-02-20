@@ -1,0 +1,17 @@
+.site{background-color: blue; width: 0 auto; height: 1000px;}
+.cabecalho{background-color: aquamarine; height: 220px; color: red; width: 0 auto;}
+.cabecalho img{float: right; margin: 5px; height: 175px; width: 500px;}
+.cabecalho h1{text-align: justify; font-size: 90px; color: purple;}
+.corpo{height: 750px;}
+.corpo p{color: white;}
+.artigos{background-color: yellow; margin-left: 20px; margin-right: 20px;}
+.artigos h4{font-size: 20px; margin: 15px;}
+.artigos img{color: white;}
+.serviços{background-color: pink;}
+.serviços ul{list-style: nome;}
+.serviços ul li{display: table-cell;}
+.serviços ul li a{text-decoration: nome; margin-left: 30px; color: red;}
+.box img{margin: 5px; height: 260px; width: 400px; float:left;}
+.rodape{background-color: black; height: 23px; width: 0 auto; font-size: 16pt;}
+.sidebar{background-color: gray; height: 590px; width: 400px; float: right; color: white; margin: 5px;}
+.sidebar label, input{margin: 30px;}
